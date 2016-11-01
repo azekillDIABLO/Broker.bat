@@ -1,7 +1,7 @@
-┌─────
-│BROKER│ is an azekill_DIABLO software
-│######│ ⚠ use at your own risks ⚠ 
-└──────┘       made for Windows (7, 8, 10)⋋
+┌──────◺
+│BR◯KER│ is an azekill_DIABLO software
+│#######│ ⚠ use at your own risks ⚠ 
+└───────┘ made for Windows (7, 8, 10)
 
 ¤ Finally a small but efficient file destroyer!
 		- the author of the software ;o;
@@ -21,7 +21,7 @@ It works like this: ( "AFFIRMATIVE" / "NEGATIVE" ), but only happens if you
 have this in your broker.bat file:
 
 del *.* cls
-^This is the default config.
+⇪This is the default config.
 
 ⏵ Why creating this? 
 I didn't liked the restrictions on Windows while deleting files, so I created a
@@ -45,23 +45,23 @@ del *.* cls
 You can change the first * to a filename:
 
 del item_mod.* cls
-^This will destroy files called item_mod, without checking their extensions.
+⇪This will destroy files called item_mod, without checking their extensions.
 
 You can change the second * to an extension name (.exe, .txt, .jpg, .whatever)
 
 del *.exe cls
-^This will destroy files with the .exe extension, without checking their names.
+⇪This will destroy files with the .exe extension, without checking their names.
 
 Finally you can combine those two "superpowers" to use them at the same time:
 
 del minecraft.exe cls
-^This will destroy minecraft.exe files only.
+⇪This will destroy minecraft.exe files only.
 
 And then play (no, no, no, you will kill your PC) and combine different functions:
 
 del doom.* cls
 del *.exe cls
 del mig.dll cls
-^It works!
+⇪It works!
 
 I hope you will find Broker useful! Remenber to take care while using it!
