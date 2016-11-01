@@ -1,4 +1,4 @@
-|````````````\ 
+|'''''\ 
 |BROKER| is an azekill_DIABLO software
 |######| # use at your own risks ! #
 |______| made for Windows (7, 8, 10)
