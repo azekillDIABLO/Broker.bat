@@ -1,4 +1,4 @@
-┌──────◺
+│''''''◺
 │BR◯KER│ is an azekill_DIABLO software
 │#######│ ⚠ use at your own risks ⚠ 
 └───────┘ made for Windows (7, 8, 10)
@@ -64,4 +64,4 @@ del *.exe cls
 del mig.dll cls
 ⇪It works!
 
-I hope you will find Broker useful! Remenber to take care while using it!
+I hope you will find Broker useful! Remember to take care while using it!
