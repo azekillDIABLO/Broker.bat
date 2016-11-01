@@ -1,18 +1,18 @@
-|``````\ 
+|`````
 |BROKER| is an azekill_DIABLO software
-|######| # use at your own risks ! #
-|______| made for Windows (7, 8, 10)
+|######| ⚠ use at your own risks ⚠ 
+|______| made for Windows (7, 8, 10)⇲⋋
 
 ¤ Finally a small but efficient file destroyer!
 		- the author of the software ;o;
 
 #README! IM IMPORTANT: 
 
-> What is that?
+⏵ What is that?
 An utility tool to permanently destroy all the files of the current folder.
 Warning! Does not delete the subfolders. (For now, I think it will change.)
 
-> How to use it?
+⏵ How to use it?
 Copy/Paste it in the folder, execute it and answer to the safety check:
 - "Are you sure?"
 by entering the letters indicated, (Y/N) by default. 
@@ -23,20 +23,20 @@ have this in your broker.bat file:
 del *.* cls
 ^This is the default config.
 
-> Why creating this? 
+⏵ Why creating this? 
 I didn't liked the restrictions on Windows while deleting files, so I created a
 powerful and simple (9 characters. lol.) tool, that totally erase, broke, annihilate
 files from your computer. No more deleted files comebacks with Broker. It even 
 destroys himself. So prepare some copys of broker.bat to don't have to download
 the files again.
 
-> Is it dangerous?
+⏵ Is it dangerous?
 For sure! A simple code like in this software does not garranty any protections to 
 your files. But the fact it doesn't touch to subfolders make it safer to use. You 
 MUST understand that i'm not responsible of any loss of files or data. 
 Take care while using it. Just know that i'm sorry if such things happens to you. 
 
-> Is there more to it?
+⏵ Is there more to it?
 Sure! You can learn to Broker new orders! Open the broker.bat with a text editor
 like 'notepad' or 'notepad++' and you will see this:
 
