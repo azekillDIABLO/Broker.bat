@@ -1,4 +1,4 @@
-│''''''◺
+|''''''◺
 │BR◯KER│ is an azekill_DIABLO software
 │#######│ ⚠ use at your own risks ⚠ 
 └───────┘ made for Windows (7, 8, 10)
